@@ -2,7 +2,7 @@
 <h3 align="center">Senior Software Engineer</h3>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ethan-shih-652025395">
+  <a href="https://www.linkedin.com/in/ethan-chun-han-shih">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://Ethan3527.github.io/portfolio/">
