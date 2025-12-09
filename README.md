@@ -1,5 +1,24 @@
-<h1 align="center">Hi 👋, I'm Blake | 施君翰</h1>
+<div align="center">
+  <img src="./coding_header.png" width="800"/>
+</div>
 
+<h1 align="center">Hi there 👋, I'm Chun Han Shih</h1>
+<h3 align="center">Senior Software Engineer</h3>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/ethan-shih-652025395">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://Ethan3527.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+</div>
+
+## 🚀 About Me
+
+As a passionate and driven software engineer, I thrive in collaborative environments where I can leverage my technical expertise to contribute to the growth and scalability of innovative companies. With a proven track record of designing, developing, and delivering high-quality software systems, I excel at translating customer requirements into robust and scalable features.
+
+---
 
 <p align="left">
 <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21~bgwhite.svg" alt="azure" width="60" height="60"/> 
