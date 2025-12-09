@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="./coding_header.png" width="800"/>
-</div>
-
 <h1 align="center">Hi there 👋, I'm Chun Han (Ethan) Shih</h1>
 <h3 align="center">Senior Software Engineer</h3>
 
