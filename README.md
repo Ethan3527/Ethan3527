@@ -49,19 +49,3 @@ As a passionate and driven software engineer, I thrive in collaborative environm
 ### Others
 ![Protobuf](https://img.shields.io/badge/Protobuf-4A154B?style=for-the-badge&logo=protobuf&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=grpc&logoColor=white)
-
-
-<p align="left">
-<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21~bgwhite.svg" alt="azure" width="60" height="60"/> 
-<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21~bgwhite.svg" alt="aws" width="60" height="60"/>
-<img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="Angular" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-official.svg" alt="css3" width="60" height="60"/> 
-<img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-official.svg" alt="csharp" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vuejs" width="40" height="40"/>
-<img src="https://spng.pngfind.com/pngs/s/418-4183674_microsoft-sql-server-logo-sql-server-logo-svg.png" alt="mssql" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="GO" width="60" height="60"/>
