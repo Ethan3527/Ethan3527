@@ -34,11 +34,3 @@ As a passionate and driven software engineer, I thrive in collaborative environm
 <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vuejs" width="40" height="40"/>
 <img src="https://spng.pngfind.com/pngs/s/418-4183674_microsoft-sql-server-logo-sql-server-logo-svg.png" alt="mssql" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="GO" width="60" height="60"/>
-</p><p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bla3ehy&layout=compact&hide=html" alt="bla3ehy" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bla3ehy&show_icons=true" alt="bla3ehy" /></p>
-
-<p align="center">
-<a href="https://www.facebook.com/profile.php?id=100001135630318" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="blake shih" height="30" width="30" /></a>
-</p>
